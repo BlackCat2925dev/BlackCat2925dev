@@ -7,7 +7,8 @@
   - Web3.js, Ether.js, Rust, Solana
   - ChatGPT API, AWS API Gateway, Blockchain API
   - MongoDB, MySQL, SQLite
-  - React.js, Redux, Next.js
+  - React.js, Redux, Next.js, React Native.
+  - Flutter, Flutter Flow, iOS, Android,
   - MUI, Material UI, Tailwind CSS
   - Jest, Cypress, Storybook
   - Git, Docker, Jira, Docker Composer
